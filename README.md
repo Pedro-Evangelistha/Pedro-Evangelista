@@ -1,9 +1,9 @@
 # 👋 Olá, mundo! Eu sou Pedro Evangelista!
 
 🙋🏻‍♂️ Tenho 22 anos e moro no Rio de Janeiro.  
-Transicionei da área de funilaria automotiva para o desenvolvimento web — um campo que me inspira por unir criatividade, lógica e a chance de resolver problemas reais através da tecnologia.  
+Transicionei da área de funilaria automotiva para o desenvolvimento web, um campo que me inspira por unir criatividade, lógica e a chance de resolver problemas reais através da tecnologia.  
 
-Atualmente, venho me dedicando ao estudo e prática de **React**, **JavaScript**, **Tailwind**, **Git/GitHub**, **APIs**, **responsividade** e **TypeScript**.  
+Atualmente, venho me dedicando ao estudo e prática de **React**, **JavaScript**, **Tailwind**, **APIs**, **responsividade** e **TypeScript**.  
 Já desenvolvi projetos práticos, incluindo integrações com **agentes de Inteligência Artificial**, aplicando essas ferramentas em cenários reais.  
 
 Sou movido por desafios e pela vontade constante de evoluir.  
